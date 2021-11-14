@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Muhammadiy-uz/" target="_blank">
+    <a href="https://github.com/Muhammadiy-uz/Muhammadiy/blob/main/assets/img/pds/logo.png" target="_blank">
         <img src="https://github.com/Muhammadiy-uz/Muhammadiy/blob/main/assets/img/pds/logo.png" height="500">
     </a>
 </p>
